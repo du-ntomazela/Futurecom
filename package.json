@@ -1,7 +1,7 @@
 {
   "name": "futurecom",
   "private": true,
-  "hospedagem":"https://du-ntomazela.github.io/projeto/",
+  "hospedagem":"https://du-ntomazela.github.io/futurecom",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
